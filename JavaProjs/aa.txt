@@ -1,0 +1,1 @@
+{"code":"b","stationsR":[{"name":"a"},{"name":"b"}],"stationsCount":2,"startStation":{"name":"a"},"endStation":{"name":"b"}}
